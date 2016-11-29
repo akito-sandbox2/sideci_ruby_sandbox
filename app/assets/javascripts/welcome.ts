@@ -5,6 +5,8 @@
 //= require footer_fixed.js
 //= require browser_timezone_rails/application.js
 
+alert(1);
+
 $("a.github_auth").click(function () {
   ga('send', 'event', 'button', 'click', {'page': '/users/auth/github'})
   ga('send', 'event', 'button', 'click', {'page': '/users/auth/github'})
