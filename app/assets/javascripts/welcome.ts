@@ -1,3 +1,4 @@
+alert(2);
 // Loads all Bootstrap javascripts
 //= require jquery
 //= require jquery_ujs
